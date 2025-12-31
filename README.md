@@ -1,38 +1,43 @@
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*oQ6ODT4iWUoM5NKYVO8g2A.png" alt="Header Banner" width="100%"/>
+
 
 <div align="center">
-  <img src="https://media.gettyimages.com/id/171237962/photo/male-business-professional.jpg?s=612x612" width="200" style="border-radius: 50%; border: 5px solid #00ffea; box-shadow: 0 0 20px #00ffea;"/>
 
-  <br/>
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="600"/>
 
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="400"/>
+  <h1 style="color: #00ffea; text-shadow: 0 0 10px #00ffea;"> Hi, I'm Md Sobuj Hossain</h1>
+  <p>
+    I am a passionate Web Developer focused on building responsive and user-friendly web applications. 
+I love working with modern JavaScript frameworks and exploring new technologies.
+</p>
 
-  <h1 style="color: #00ffea; text-shadow: 0 0 10px #00ffea;">👋 Hi, I'm Md Sobuj Hossain</h1>
-  
-  <p><strong>🚀 Beginner → Intermediate Frontend Developer</strong></p>
-  <p>💻 Skilled in <strong>React.js</strong> & <strong>Tailwind CSS</strong></p>
-  <p>🌱 Currently Mastering <strong>MERN Stack</strong></p>
-  <p>📧 <a href="mailto:muhammadsobuj20@gmail.com">muhammadsobuj20@gmail.com</a></p>
 
   <img src="https://komarev.com/ghpvc/?username=muhammad-sobuj&color=00ffea&style=flat-square&label=Profile+Views" alt="Visitors"/>
 
   <br/><br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammad-sobuj&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies"/>
+<div align="center">
 
-  <br/><br/>
+  <p>
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/arts-graphic-shapes/full-stack-developer-icon.svg" height="16" alt="Frontend Developer"/>
+    <strong>Beginner → Intermediate Frontend Developer</strong>
+  </p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-sobuj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-sobuj&theme=tokyonight&hide_border=true"/>
+  <p>
+    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="16" alt="React.js"/>
+    Skilled in <strong>React.js</strong> & 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="16" alt="Tailwind CSS"/>
+    <strong>Tailwind CSS</strong>
+  </p>
 
-  <br/><br/>
+<p>🌱 Currently Mastering <strong>MERN Stack</strong></p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-sobuj&layout=compact&theme=tokyonight&hide_border=true"/>
+  <p>
+    📧 <a href="mailto:muhammadsobuj20@gmail.com">muhammadsobuj20@gmail.com</a>
+  </p>
 
 </div>
-
-### 🛠️ Tech Stack
+ 
+###  Tech Stack
 
 <div align="center">
 
@@ -48,10 +53,5 @@
 </div>
 
 <div align="center">
-  <p>📊 My Contribution Snake</p>
-  <img src="https://github.com/muhammad-sobuj/muhammad-sobuj/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
-</div>
-
-<div align="center">
-  <img src="https://i.pinimg.com/1200x/b0/02/b2/b002b278d3ccfddc9f3553fc937516c5.jpg" width="800"/>
+  <img src="https://i.pinimg.com/1200x/b0/02/b2/b002b278d3ccfddc9f3553fc937516c5.jpg" width="800" />
 </div>
