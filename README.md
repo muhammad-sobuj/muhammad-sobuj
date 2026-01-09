@@ -2,20 +2,16 @@
 
 <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="600"/>
 
-#  Hi, I'm Md Sobuj Hossain
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi%20I%27m%20Md%20Sobuj%20Hossain&fontSize=38&fontColor=ffffff" />
 
 I am a passionate **Frontend Web Developer** focused on building responsive and user-friendly web applications.  
 I love working with modern JavaScript frameworks and exploring new technologies.
 
 <img src="https://komarev.com/ghpvc/?username=muhammad-sobuj&color=00ffea&style=flat-square&label=Profile+Views" />
 
----
-
 💻 **Junior Frontend Developer (React-Focused)**  
 ⚛️ Skilled in **React.js** & **Tailwind CSS**  
-🌱 Currently mastering the **MERN Stack**  
-
-📧 **Email:** [muhammadsobuj20@gmail.com](mailto:muhammadsobuj20@gmail.com)
+🌱 Currently mastering the **MERN Stack**
 
 </div>
 
@@ -38,25 +34,71 @@ I love working with modern JavaScript frameworks and exploring new technologies.
 
 ---
 
+## 🚀 Featured Projects
+
+### 🔹 Portfolio Website
+- Personal responsive portfolio website  
+- Built with **React.js & Tailwind CSS**  
+- Smooth UI animations and clean design  
+
+🔗 Live: `Coming Soon`  
+📂 Repo: `Coming Soon`
+
+---
+
+### 🔹 MERN CRUD Application
+- Full-stack CRUD app with authentication  
+- **MongoDB, Express, React, Node.js**  
+- REST API + modern UI  
+
+🔗 Live: `Coming Soon`  
+📂 Repo: `Coming Soon`
+
+---
+
+### 🔹 React Mini Projects
+- Multiple small React projects for practice  
+- Focused on component structure & hooks  
+
+📂 Repo: `Coming Soon`
+
+---
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammad-sobuj&show_icons=true&theme=tokyonight)
+<div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammad-sobuj&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-sobuj&layout=compact&theme=tokyonight)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Md%20Sobuj%20Hossain&fontSize=38&fontColor=ffffff" />
 </div>
 
+---
+
+## 📬 Contact Me
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" />
+
+📧 **Email:**  
+[muhammadsobuj20@gmail.com](mailto:muhammadsobuj20@gmail.com)
+
+💼 **LinkedIn:**  
+[https://www.linkedin.com/in/md-sobuj-hossain/]
+
+🌐 **Portfolio:**  
+[https://sobuj-hossain.netlify.app/]
+
 </div>
 
-<p align="center"><strong>MERN Stack Developer</strong></p>
+---
 
+<div align="center">
+
+### 🧠 MERN Stack
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+</div>
