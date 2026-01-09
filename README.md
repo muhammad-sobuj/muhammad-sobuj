@@ -1,11 +1,15 @@
 <div align="center">
 
+<!-- Animated Hero GIF -->
 <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="600"/>
 
+<!-- Capsule Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi%20I%27m%20Md%20Sobuj%20Hossain&fontSize=38&fontColor=ffffff" />
 
-I am a passionate **Frontend Web Developer** focused on building responsive and user-friendly web applications.  
+<p>
+I am a passionate <strong>Frontend Web Developer</strong> focused on building responsive and user-friendly web applications.  
 I love working with modern JavaScript frameworks and exploring new technologies.
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=muhammad-sobuj&color=00ffea&style=flat-square&label=Profile+Views" />
 
@@ -38,29 +42,30 @@ I love working with modern JavaScript frameworks and exploring new technologies.
 
 ### 🔹 Portfolio Website
 - Personal responsive portfolio website  
-- Built with **React.js & Tailwind CSS**  
-- Smooth UI animations and clean design  
+- **Tech Stack:** React.js, Tailwind CSS  
+- **Features:** Smooth UI animations, clean design  
 
-🔗 Live: `Coming Soon`  
-📂 Repo: `Coming Soon`
+🔗 Live: [Coming Soon](#)  
+📂 Repo: [Coming Soon](#)
 
 ---
 
 ### 🔹 MERN CRUD Application
 - Full-stack CRUD app with authentication  
-- **MongoDB, Express, React, Node.js**  
-- REST API + modern UI  
+- **Tech Stack:** MongoDB, Express.js, React.js, Node.js  
+- **Features:** REST API integration, modern UI  
 
-🔗 Live: `Coming Soon`  
-📂 Repo: `Coming Soon`
+🔗 Live: [Coming Soon](#)  
+📂 Repo: [Coming Soon](#)
 
 ---
 
 ### 🔹 React Mini Projects
 - Multiple small React projects for practice  
-- Focused on component structure & hooks  
+- **Tech Stack:** React.js  
+- **Focus:** Components, hooks, and state management  
 
-📂 Repo: `Coming Soon`
+📂 Repo: [import-export-hub-client](https://github.com/muhammad-sobuj/import-export-hub-client)
 
 ---
 
@@ -79,14 +84,9 @@ I love working with modern JavaScript frameworks and exploring new technologies.
 
 <div align="center">
 
-📧 **Email:**  
-[muhammadsobuj20@gmail.com](mailto:muhammadsobuj20@gmail.com)
-
-💼 **LinkedIn:**  
-[https://www.linkedin.com/in/md-sobuj-hossain/]
-
-🌐 **Portfolio:**  
-[https://sobuj-hossain.netlify.app/]
+[![Gmail](https://img.shields.io/badge/Email-muhammadsobuj20@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadsobuj20@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sobuj-hossain/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-00bfff?style=for-the-badge)](https://sobuj-hossain.netlify.app/)
 
 </div>
 
@@ -94,7 +94,7 @@ I love working with modern JavaScript frameworks and exploring new technologies.
 
 <div align="center">
 
-### 🧠 MERN Stack
+###  MERN Stack Developer 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
