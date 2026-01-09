@@ -1,43 +1,27 @@
-
-
 <div align="center">
 
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="600"/>
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="600"/>
 
-  <h1 style="color: #00ffea; text-shadow: 0 0 10px #00ffea;"> Hi, I'm Md Sobuj Hossain</h1>
-  <p>
-    I am a passionate Web Developer focused on building responsive and user-friendly web applications. 
+#  Hi, I'm Md Sobuj Hossain
+
+I am a passionate **Frontend Web Developer** focused on building responsive and user-friendly web applications.  
 I love working with modern JavaScript frameworks and exploring new technologies.
-</p>
 
+<img src="https://komarev.com/ghpvc/?username=muhammad-sobuj&color=00ffea&style=flat-square&label=Profile+Views" />
 
-  <img src="https://komarev.com/ghpvc/?username=muhammad-sobuj&color=00ffea&style=flat-square&label=Profile+Views" alt="Visitors"/>
+---
 
-  <br/><br/>
+💻 **Junior Frontend Developer (React-Focused)**  
+⚛️ Skilled in **React.js** & **Tailwind CSS**  
+🌱 Currently mastering the **MERN Stack**  
 
-<div align="center">
-
-  <p>
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/arts-graphic-shapes/full-stack-developer-icon.svg" height="16" alt="Frontend Developer"/>
-    <strong>Beginner → Intermediate Frontend Developer</strong>
-  </p>
-
-  <p>
-    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="16" alt="React.js"/>
-    Skilled in <strong>React.js</strong> & 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="16" alt="Tailwind CSS"/>
-    <strong>Tailwind CSS</strong>
-  </p>
-
-<p>🌱 Currently Mastering <strong>MERN Stack</strong></p>
-
-  <p>
-    📧 <a href="mailto:muhammadsobuj20@gmail.com">muhammadsobuj20@gmail.com</a>
-  </p>
+📧 **Email:** [muhammadsobuj20@gmail.com](mailto:muhammadsobuj20@gmail.com)
 
 </div>
- 
-###  Tech Stack
+
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
 
@@ -52,6 +36,27 @@ I love working with modern JavaScript frameworks and exploring new technologies.
 
 </div>
 
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammad-sobuj&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-sobuj&layout=compact&theme=tokyonight)
+
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/b0/02/b2/b002b278d3ccfddc9f3553fc937516c5.jpg" width="800" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Md%20Sobuj%20Hossain&fontSize=38&fontColor=ffffff" />
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" />
+</div>
+
+<p align="center"><strong>MERN Stack Developer</strong></p>
+
